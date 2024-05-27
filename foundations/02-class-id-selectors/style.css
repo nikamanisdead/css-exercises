@@ -1,4 +1,9 @@
 p {
-    background-color: pink;
+    background-color: rgb(231, 57, 167);
     font-family: 'Verdana', 'DejaVu sans', sans-serif;
+}
+
+#Number2 {
+    color: rgb(0, 0, 100);
+    font-size: 32px;
 }
